@@ -12,7 +12,7 @@ npm install abbrevify
 # Example
 
 ```
-const { abbrevify } = require('your-package-name');
+const { abbrevify } = require('abbrevify');
 
 async function processSentence() {
     try {
