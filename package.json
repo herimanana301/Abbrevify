@@ -9,6 +9,7 @@
   "author": "Herimanana Rasolonirina",
   "license": "ISC",
   "dependencies": {
+    "abbrevify": "^1.0.0",
     "csv-parser": "^3.0.0"
   }
 }
