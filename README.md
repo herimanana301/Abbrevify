@@ -1,7 +1,6 @@
 # Abbreviation Utility
 
-This Node.js module provides a utility for abbreviating phrases based on a CSV dictionary.
-
+Abbrevify is a tool designed to optimize text length by intelligently abbreviating full words and phrases. Perfect for developers looking to save on API costs (e.g GPT API), Abbrevify leverages advanced algorithms to condense your text while maintaining clarity and readability. Whether you're working with large datasets, sending messages, or generating content, Abbrevify ensures you get the most out of your text input with minimal characters.
 ## Installation
 
 You can install the package via npm:
