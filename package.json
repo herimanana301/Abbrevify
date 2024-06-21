@@ -1,0 +1,14 @@
+{
+  "name": "abbrevify",
+  "version": "1.0.0",
+  "description": "Abbrevify is a tool designed to optimize text length by intelligently abbreviating full words and phrases. Perfect for developers looking to save on API costs, Abbrevify leverages advanced algorithms to condense your text while maintaining clarity and readability. Whether you're working with large datasets, sending messages, or generating content, Abbrevify ensures you get the most out of your text input with minimal characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Herimanana Rasolonirina",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
